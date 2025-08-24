@@ -1,1 +1,1 @@
-This is a random file.  I will be updating this at a future time from my local machine.
+The repository has been cloned to my local machine using Git.
